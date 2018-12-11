@@ -1,0 +1,15 @@
+<div style="padding-bottom: 5vh;">
+<div class="input-group mb-3">
+  <input id="key_input" type="text" class="form-control" placeholder="Enter form key" aria-label="Recipient's username" aria-describedby="basic-addon2">
+  <div class="input-group-append">
+    <button class="btn btn-outline-secondary" type="button" id="get_results" style="z-index: 1;">Get Results</button>
+  </div>
+</div>
+</div>
+
+<div class="results_count" style="margin-bottom: 5vh;">
+</div>
+
+<div class="results">
+
+</div>

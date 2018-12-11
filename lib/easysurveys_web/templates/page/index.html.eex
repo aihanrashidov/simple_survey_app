@@ -1,0 +1,10 @@
+<div id="first_div">
+<h1>Welcome!</h1>
+<h2>Create simple surveys using our application.</h2>
+<div id="second div">
+<div id="img_divs"><p>Create surveys easily using drag and drop.</p><img class="home_images" src="/images/1.png"></div>
+<div id="img_divs"><p>Fill your surveys.</p><img class="home_images" src="/images/2.png"></div>
+<div id="img_divs"><p>Check for the results.</p><img class="home_images" src="/images/3.png"></div>
+</div>
+<h3 style="margin-top: 10vh; margin-bottom: 8vh;"><a href="/create_form">Start now.</a></h3>
+</div>
